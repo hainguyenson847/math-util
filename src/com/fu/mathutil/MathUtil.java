@@ -29,7 +29,7 @@ public class MathUtil {
         System.out.println("expected: 0! = 1; actual: " + MathUtil.getFactorial(0));
         System.out.println("expected: 1! = 1; actual: " + MathUtil.getFactorial(1));
         System.out.println("expected: 3! = 6; actual: " + MathUtil.getFactorial(3));
-        
+        System.out.println("Hello");
     }
     
 }
